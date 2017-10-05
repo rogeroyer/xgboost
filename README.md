@@ -54,3 +54,4 @@ Refering website:
 
 https://wang-shuo.github.io/2017/02/21/%E5%9C%A8Windows%E4%B8%8B%E5%AE%89%E8%A3%85XGBoost/
 https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_XGBoost_For_Anaconda_on_Windows?lang=en
+http://blog.csdn.net/fyjthcy/article/details/50562756
